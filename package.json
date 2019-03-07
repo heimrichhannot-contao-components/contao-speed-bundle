@@ -1,0 +1,13 @@
+{
+  "name": "contao-speed-bundle",
+  "version": "1.0.0",
+  "description": "This package contains the frontend assets of the composer bundle heimrichhannot/contao-speed-bundle.",
+  "main": "js/utils-bundle",
+  "repository": "git@github.com:heimrichhannot-contao-components/contao-utils-bundle.git",
+  "author": "Heimrich & Hannot <digitales@heimrich-hannot.de>",
+  "license": "MIT",
+  "dependencies": {
+    "vanilla-lazyload": "^11.0.3",
+    "intersection-observer": "^0.5.1"
+  },
+}
