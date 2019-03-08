@@ -1,3 +1,1 @@
-module.exports = {
-    lazyload: require('./lazyload')
-};
+import {LazyImagesInstance, LazyImages} from './lazy-images';
