@@ -6,7 +6,7 @@ class LazyImages {
     constructor() {
         this.lazyLoadOptions = {// default image instance
             elements_selector: '.lazy-img',
-            daba_bg: 'bg',
+            data_bg: 'bg',
             data_src: 'src',
             data_srcset: 'srcset',
             threshold: 400,
